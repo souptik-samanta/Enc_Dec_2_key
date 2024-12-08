@@ -19,5 +19,5 @@ The program leverages ASCII value manipulation and prime number checks to enhanc
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
+This project is licensed under the MIT License.
 
